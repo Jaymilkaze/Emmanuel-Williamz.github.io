@@ -1,7 +1,5 @@
-# Emmanuel-Williamz.github.io
-Portfolio
-# Hello, I'm CHANGEME
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Emmanuel Williams
+<a href="https://www.linkedin.com/in/emmanuel-williams-2b852023a"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
@@ -17,7 +15,7 @@ Through my experience in computer science, I’ve discovered a strong passion fo
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Malware Analysis                              | <a href="https://github.com/Jaymilkaze/Malware-Analysis-">Malware Analysis Lab</a>|
 | TryHackMe SOC Simulation                      | <a href="https://github.com/Jaymilkaze/TryHackME-SOC-Sim/blob/main/SOC_Phishing_Investigation.md">Phishing Alert Investigation</a>|
-
+|  Home SOC in Azure                            | <a href="https://github.com/Jaymilkaze/Malware-Analysis-">Home Lab</a>|
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
@@ -49,6 +47,9 @@ Through my experience in computer science, I’ve discovered a strong passion fo
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://github.com/tryhackmeltd/rooms" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
 </div>
 
 ## Projects
